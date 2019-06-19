@@ -1,0 +1,11 @@
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 05\dotNetCore\APIProdutos\bin\Debug\netcoreapp2.0\APIProdutos.deps.json
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 05\dotNetCore\APIProdutos\bin\Debug\netcoreapp2.0\APIProdutos.runtimeconfig.json
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 05\dotNetCore\APIProdutos\bin\Debug\netcoreapp2.0\APIProdutos.runtimeconfig.dev.json
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 05\dotNetCore\APIProdutos\bin\Debug\netcoreapp2.0\APIProdutos.dll
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 05\dotNetCore\APIProdutos\bin\Debug\netcoreapp2.0\APIProdutos.pdb
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 05\dotNetCore\APIProdutos\obj\Debug\netcoreapp2.0\APIProdutos.csprojAssemblyReference.cache
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 05\dotNetCore\APIProdutos\obj\Debug\netcoreapp2.0\APIProdutos.csproj.CoreCompileInputs.cache
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 05\dotNetCore\APIProdutos\obj\Debug\netcoreapp2.0\APIProdutos.AssemblyInfoInputs.cache
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 05\dotNetCore\APIProdutos\obj\Debug\netcoreapp2.0\APIProdutos.AssemblyInfo.cs
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 05\dotNetCore\APIProdutos\obj\Debug\netcoreapp2.0\APIProdutos.dll
+D:\Pessoal\Pós-gradução\Materias\AWS\exercicio\Exercício Aula 05\dotNetCore\APIProdutos\obj\Debug\netcoreapp2.0\APIProdutos.pdb
